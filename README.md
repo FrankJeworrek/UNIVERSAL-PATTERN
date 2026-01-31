@@ -101,7 +101,23 @@ Einen Tag später, am 31. Januar 2026, führte ich ein Experiment durch: Ein Ges
 
 ## Lizenz
 
-MIT License - Frei nutzbar, modifizierbar und weitergegeben werden, auch kommerziell.
+**CC BY-NC-SA 4.0** - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Das Framework darf frei:
+- ✅ **Genutzt** werden (für persönliche, akademische, Bildungszwecke)
+- ✅ **Geteilt** werden (kopieren und weiterverbreiten)
+- ✅ **Angepasst** werden (remixen, transformieren, darauf aufbauen)
+
+**ABER:**
+- ❌ **NICHT für kommerzielle Zwecke** (mindestens für die nächste Zeit)
+- ✅ Mit **Namensnennung** (Frank Jeworrek)
+- ✅ Ableitungen unter **gleicher Lizenz**
+
+**Bei kommerziellem Interesse bitte kontaktieren.**
+
+[Vollständige Lizenz](LICENSE) | [Human-readable Summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
 
 **Autor:** Frank Jeworrek, Düsseldorf
 **Datum:** 31. Januar 2026
